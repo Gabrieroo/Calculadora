@@ -12,7 +12,7 @@
         android:textSize="30dp"
         android:gravity="end"
         android:padding="10dp"
-        android:text="1234"
+        android:text=""
         android:textColor="@color/white"
         android:background="@color/black"/>
     <TextView
@@ -22,7 +22,7 @@
         android:textSize="60dp"
         android:gravity="end"
         android:padding="10dp"
-        android:text="1234"
+        android:text=""
         android:textColor="@color/white"
         android:background="@color/black"/>
 
